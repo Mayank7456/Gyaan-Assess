@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mayank7456/Gyaan-Assess/static/css/main.3da3f5e2.css",
+    "main.js": "/Mayank7456/Gyaan-Assess/static/js/main.3047f2a8.js",
+    "static/js/488.a2ca9ae1.chunk.js": "/Mayank7456/Gyaan-Assess/static/js/488.a2ca9ae1.chunk.js",
+    "index.html": "/Mayank7456/Gyaan-Assess/index.html",
+    "main.3da3f5e2.css.map": "/Mayank7456/Gyaan-Assess/static/css/main.3da3f5e2.css.map",
+    "main.3047f2a8.js.map": "/Mayank7456/Gyaan-Assess/static/js/main.3047f2a8.js.map",
+    "488.a2ca9ae1.chunk.js.map": "/Mayank7456/Gyaan-Assess/static/js/488.a2ca9ae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3da3f5e2.css",
+    "static/js/main.3047f2a8.js"
+  ]
+}
